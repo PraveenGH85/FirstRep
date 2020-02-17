@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14266" started-at="2020-02-17T12:48:55Z" finished-at="2020-02-17T12:49:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14266" started-at="2020-02-17T12:48:55Z" finished-at="2020-02-17T12:49:09Z">
+      <class name="CitiusTechGroup.HealthCareProject.MavenDemo">
+        <test-method status="PASS" signature="test1()[pri:0, instance:CitiusTechGroup.HealthCareProject.MavenDemo@246ae04d]" name="test1" duration-ms="14250" started-at="2020-02-17T18:18:55Z" finished-at="2020-02-17T18:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:CitiusTechGroup.HealthCareProject.MavenDemo@246ae04d]" name="test2" duration-ms="0" started-at="2020-02-17T18:19:09Z" finished-at="2020-02-17T18:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- CitiusTechGroup.HealthCareProject.MavenDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
