@@ -8,7 +8,7 @@ class Demo4 //This is a Demo4 class
 }
 class Tester4 extends Demo4 //This is a Tester4 classes
 {
-	String merge(String a,String b,String c)
+	String merge(String a,String b,String c)  //method
 	{
 		return a+b+c;
 	}
