@@ -1,5 +1,5 @@
 package Pack20;
-class Demo4
+class Demo4 //This is a Demo4 class
 {
 	String merge(String a,String b)
 	{
