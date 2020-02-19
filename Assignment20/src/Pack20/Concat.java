@@ -6,7 +6,7 @@ class Demo4 //This is a Demo4 class
 		return a+b;
 	}
 }
-class Tester4 extends Demo4
+class Tester4 extends Demo4 //This is a Tester4 class
 {
 	String merge(String a,String b,String c)
 	{
