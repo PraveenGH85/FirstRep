@@ -1,6 +1,7 @@
 package Pack20;
 class Add2
 {
+	//add method
 	int add(int a,int b)
 	{
 		return a+b;
